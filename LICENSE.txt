@@ -1,0 +1,28 @@
+Local Approximations for Subset Simulation method
+---------------------------------------------------------------------------
+Created by:
+Kenan Šehić (kense@dtu.dk; kenosehic@gmail.com)
+Department of Applied Mathematics and Computer Science
+Technical University of Denmark
+Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
+
+Cite: Šehić K., Karamehmedović M., Marzouk Y.: Estimation of Failure Probabilities via Local Subset Approximations, TBD
+---------------------------------------------------------------------------
+Version December 2019
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+* Main Ref:
+      
+    Subset Simulation Method - Felipe Uribe (felipe.uribe@tum.de)
+    https://www.bgu.tum.de/era/software/software00/subset-simulation/
+    
+    Papaioannou I., Betz W., Zwirglmaier K., Straub D.: MCMC algorithms for subset simulation. Probabilistic Engineering Mechanics, 41: 89-103.
+
+    P. R. Conrad, Y. M. Marzouk,N. S. Pillai and A. Smith: Accelerating Asymptotically Exact MCMC for Computationally Intensive Models via Local Approximations.
+    Journal of the American Statistical Association, Volume 111, 2016 - Issue 516, Pages 1591-1607
+
+---------------------------------------------------------------------------
+
+This MATLAB script comes with ABSOLUTELY NO WARRANTY. This is free script and you are welcome to redistribute it under the conditions
+of the GNU General Public License version 3 (See http://www.gnu.org/copyleft/gpl.html for details).
+
