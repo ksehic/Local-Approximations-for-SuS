@@ -7,7 +7,7 @@ Department of Applied Mathematics and Computer Science
 Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
 
-Cite: Šehić K., Karamehmedović M., Marzouk Y.: Estimation of Failure Probabilities via Local Subset Approximations, TBD
+Cite: Šehić K., Karamehmedović M.: Estimation of Failure Probabilities via Local Subset Approximations, TBD
 ---------------------------------------------------------------------------
 Version December 2019
 ---------------------------------------------------------------------------
