@@ -1,7 +1,7 @@
 Local Learning based on Gaussian process for Subset Simulation method 
 ---------------------------------------------------------------------------
 Created by:
-Kenan Šehić (kense@dtu.dk; kenosehic@gmail.com)
+Kenan Šehić (kense@dtu.dk; mrsehickenan@gmail.com)
 Department of Applied Mathematics and Computer Science
 Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
@@ -53,6 +53,6 @@ Output:
 5. Follow comments
 6. Run test.m and explore
 
-If you find any mistake or bug or you have comments, please contact me at kense@dtu.dk or kenosehic@gmail.com.
+If you find any mistake or bug or you have comments, please contact me at kense@dtu.dk or mrsehickenan@gmail.com.
 
 Thank you!
