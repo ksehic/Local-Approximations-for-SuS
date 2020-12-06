@@ -53,6 +53,6 @@ Output:
 5. Follow comments
 6. Run and explore
 
-If you find any mistake or bug or you have comments, please contact me at kense@dtu.dk or kenosehic@gmail.com.
+If you find any mistake or bug or you have comments, please contact me at kense@dtu.dk or mrsehickenan@gmail.com.
 
 Thank you!
