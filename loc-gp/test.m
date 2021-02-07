@@ -2,7 +2,7 @@
 %{
 ---------------------------------------------------------------------------
 Created by:
-Kenan Šehić (kense@dtu.dk; kenosehic@gmail.com)
+Kenan Šehić (kense@dtu.dk; mrsehickenan@gmail.com)
 Department of Applied Mathematics and Computer Science
 Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
@@ -20,7 +20,7 @@ Description:
 %}
 %% Test local approximation approach
 
-seed=144; % seed
+seed = 144; % seed
 
 N = 5000; % initial number of samples at j=0
 
@@ -30,9 +30,9 @@ g = 8; % select function to test local approximation approach
 
 d = 300; % dimension
 
-off = 1;
+off = 1; % turn on approximation 1 or 0 using model
    
-[Pf_SuS,delta_SuS,prob,b,Pf,b_line,Pf_line,samplesU,gruns] = SuS_Local(N, p0, g,d,off,seed);
+[Pf_SuS, delta_SuS, prob, b, Pf, b_line, Pf_line, samplesU, gruns] = SuS_Local(N, p0, g, d, off, seed);
     
 filename='test.mat';
  

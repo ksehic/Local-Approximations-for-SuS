@@ -3,7 +3,7 @@ function [Rmax,Rdef,seeds0,eval0,seeds1] = RmaxRefine(theta,seeds,g_limit,skipsa
 %{
 ---------------------------------------------------------------------------
 Created by:
-Kenan Šehić (kense@dtu.dk; kenosehic@gmail.com)
+Kenan Šehić (kense@dtu.dk; mrsehickenan@gmail.com)
 Department of Applied Mathematics and Computer Science
 Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark

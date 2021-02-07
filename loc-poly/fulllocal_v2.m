@@ -3,7 +3,7 @@ function [Ge,seeds,gseeds,run1,check,epadd] = fulllocal_v2(v,x0,seeds,gseeds,G_L
 %{
 ---------------------------------------------------------------------------
 Created by:
-Kenan Šehić (kense@dtu.dk; kenosehic@gmail.com)
+Kenan Šehić (kense@dtu.dk; mrsehickenan@gmail.com)
 Department of Applied Mathematics and Computer Science
 Technical University of Denmark
 Licence: Copyright (C) 2019 Kenan Šehić DTU Compute, Technical University of Denmark
